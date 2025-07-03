@@ -4,9 +4,9 @@ public class Math {
         double x = 51.95;
         double y = 12.74;
 
-        System.out.print(x + y);
-        System.out.print(x - y);
-        System.out.print(x * y);
-        System.out.print(x / y);
+        System.out.print(x + y + "\n");
+        System.out.print(x - y + "\n");
+        System.out.print(x * y + "\n");
+        System.out.print(x / y + "\n");
     }
 }
